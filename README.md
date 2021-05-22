@@ -1,4 +1,6 @@
-<h1>ChatMeet</h1>  
+<h1>ChatMeet</h1> 
+<p align="center"><img src="https://user-images.githubusercontent.com/65587816/119231739-07514600-bb40-11eb-90d9-278b7992731a.png"></p>
+
 
 <h2>About<a><img src="https://github.com/Samridhi-98/Images/blob/master/Images/reading.svg" width="4%"></a></h2>
 
